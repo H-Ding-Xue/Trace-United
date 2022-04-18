@@ -1,1 +1,1 @@
-# Trace-United
+A Java app like Trace Together and Health Buddy developed using Java; Java Swing; and MSSQL with an emphasis on BCE architectural pattern, AGILE development methodology and OOP concepts Features I developed included viewing and updating of vaccination statuses by health staff users and sending alerts to patients that have had close contacts with covid patients.
