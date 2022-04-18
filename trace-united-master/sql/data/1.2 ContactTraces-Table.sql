@@ -1,0 +1,2 @@
+INSERT INTO ContactTraces(UserID, CheckInDateTime, CheckOutDateTime, BusinessAddress) VALUES ('1234567', '2021-04-30 10:00:00', '2021-04-30 11:00:00', 'Area 1');
+INSERT INTO ContactTraces(UserID, CheckInDateTime, CheckOutDateTime, BusinessAddress) VALUES ('1234567', '2021-04-30 12:00:00', '2021-04-30 13:00:00', 'Area 2');

@@ -1,0 +1,10 @@
+INSERT INTO ContactTraces (UserID, CheckInDateTime, CheckOutDateTime, BusinessAddress) VALUES ('TestP01', '2020-05-30 10:44:55', '2020-05-30 14:30:59', '1034 Joo Koon Drive DSS HQ Singapore 567344');
+INSERT INTO ContactTraces (UserID, CheckInDateTime, CheckOutDateTime, BusinessAddress) VALUES ('TestP01', '2020-05-22 08:23:35', '2020-05-22 10:45:30', '10 Outram Central CTE Central Branch Singapore 678034');
+INSERT INTO ContactTraces (UserID, CheckInDateTime, CheckOutDateTime, BusinessAddress) VALUES ('TestP01', '2020-04-29 09:14:20', '2020-04-29 21:30:21', '15 Jurong West Central Psionix HQ Singapore 354512');
+INSERT INTO ContactTraces (UserID, CheckInDateTime, CheckOutDateTime, BusinessAddress) VALUES ('TestP01', '2020-05-15 11:42:20', '2020-05-15 13:11:10', '1034 Joo Koon Drive DSS HQ Singapore 567344');
+INSERT INTO ContactTraces (UserID, CheckInDateTime, CheckOutDateTime, BusinessAddress) VALUES ('TestP01', '2020-04-28 07:31:11', '2020-04-28 09:31:12', '56 Tampines Drive PUG HQ Singapore 776032');
+INSERT INTO ContactTraces (UserID, CheckInDateTime, CheckOutDateTime, BusinessAddress) VALUES ('TestP01', '2020-03-15 15:23:12', '2020-03-15 17:43:12', '10 Marina Bay CTE South Branch Singapore 739401');
+INSERT INTO ContactTraces (UserID, CheckInDateTime, CheckOutDateTime, BusinessAddress) VALUES ('TestP01', '2021-04-20 18:30:11', '2021-04-20 20:20:11', '67 Tiong Bahru Ave LudoNarra Studios Singapore 19512');
+INSERT INTO ContactTraces (UserID, CheckInDateTime, CheckOutDateTime, BusinessAddress) VALUES ('TestP01', '2020-12-23 09:43:41', '2020-12-23 19:13:01', '3 Orchard Ave Unfairprice HQ Singapore 867212');
+INSERT INTO ContactTraces (UserID, CheckInDateTime, CheckOutDateTime, BusinessAddress) VALUES ('TestP01', '2020-09-18 11:13:30', '2020-09-18 15:33:31', '41 Pasir Ris Drive Aperture HQ Singapore 675012');
+INSERT INTO ContactTraces (UserID, CheckInDateTime, CheckOutDateTime, BusinessAddress) VALUES ('TestP01', '2021-01-10 12:45:11', '2021-01-10 18:15:13', '23 Jurong East St Good Dog Studios Singapore 809321');

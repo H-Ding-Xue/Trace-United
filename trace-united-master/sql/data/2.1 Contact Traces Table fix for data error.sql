@@ -1,0 +1,1 @@
+UPDATE ContactTraces SET BusinessAddress = '102 Bukit Timah Rd Shinsho Singapore 670733' WHERE BusinessAddress = '18 Bugis St Shinsho Singapore 120452 #01-52'
